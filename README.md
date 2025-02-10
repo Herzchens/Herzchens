@@ -23,7 +23,7 @@
 `MySQL` `MongoDB` `PostgreSQL`  
 
 🛠 **Other Technologies:**  
-`Git` `Batch` `Vbs` `Window Trick`
+`Git` `Window Tweak` `IOS Tweak` `Android Tweak`
 
 ---
 
