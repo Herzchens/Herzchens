@@ -14,16 +14,16 @@
 
 ## 🎓 Studying  
 🖥️ **Programming Languages:**  
-`C` `C++` `C#` `Java` `TypeScript` `Python`  
+`C` `C++` `C#` `Java` `TypeScript` `Python` `Docker` `TypeScript` `Go` `Swift` `Kotlin`
 
 🌐 **Web Technologies:**  
-`HTML` `CSS` `JavaScript` `Node.js`  
+`HTML` `CSS` `JavaScript` `Node.js` `PHP` `Spring` `Flask` `Flesk`
 
 💾 **Database:**  
 `MySQL` `MongoDB` `PostgreSQL`  
 
 🛠 **Other Technologies:**  
-`Git` `Window Tweak` `IOS Tweak` `Android Tweak`
+`Git` `Window Tweak` `IOS Tweak` `Android Tweak` `Linux`
 
 ---
 
