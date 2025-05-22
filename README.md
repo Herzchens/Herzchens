@@ -1,6 +1,6 @@
 <h1 align="center">🌟 Welcome to My Profile! 🌟</h1>
-![Profile views](https://komarev.com/ghpvc/?username=Herzchens&label=Profile%20views&color=0e75b6&style=flat)
 
+![Profile views](https://komarev.com/ghpvc/?username=Herzchens&label=Profile%20views&color=0e75b6&style=flat)
 ---
 
 ## 🔥 About Me  
