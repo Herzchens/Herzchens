@@ -15,10 +15,10 @@
 
 ## 🎓 Studying  
 🖥️ **Programming Languages:**  
-`C` `C++` `C#` `Java` `TypeScript` `Python` `Docker` `TypeScript` `Go` `Swift` `Kotlin`
+`C` `C++` `C#` `Java` `TypeScript` `Python` `Docker` `Go` `Swift` `Kotlin`
 
 🌐 **Web Technologies:**  
-`HTML` `CSS` `JavaScript` `Node.js` `PHP` `Spring` `Flask` `Flesk`
+`HTML` `CSS` `JavaScript` `Node.js` `PHP` `Spring` `Flask` `Flesk` 
 
 💾 **Database:**  
 `MySQL` `MongoDB` `PostgreSQL`  
