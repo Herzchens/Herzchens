@@ -13,16 +13,38 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25" /> Connect With Me
 
-<p align="center">
-  <a href="https://discord.com/users/984085171408080897">
-    <img src="https://lanyard.cnrad.dev/api/984085171408080897" alt="Discord Status">
-  </a>
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Discord Status**
+
+<a href="https://discord.com/users/984085171408080897">
+  <img src="https://lanyard.cnrad.dev/api/984085171408080897" alt="Discord Status" width="400">
+</a>
+
+</td>
+<td align="center" width="50%">
+
+**Spotify Now Playing**
+
+<a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t5yp5xot6ttmhlwefjaxq7qukm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
   
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/984085171408080897)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Herzchens)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31t5yp5xot6ttmhlwefjaxq7qukm)
 
 </div>
 
