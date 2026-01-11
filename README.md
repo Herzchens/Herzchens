@@ -2,7 +2,7 @@
   
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> Hello, I'm ItzHerzchen!
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif?t=1" width="20" /> Junior Developer | <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> Learning Everyday | <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20" /> Coding Enthusiast
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" /> Junior Developer | <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> Learning Everyday | <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20" /> Coding Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/Herzchens?style=social)](https://github.com/Herzchens)
 [![GitHub stars](https://img.shields.io/github/stars/Herzchens?style=social)](https://github.com/Herzchens)
@@ -15,36 +15,16 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
 **Discord Status**
 
 <a href="https://discord.com/users/984085171408080897">
-  <img src="https://lanyard.cnrad.dev/api/984085171408080897" alt="Discord Status" width="100%">
+  <img src="https://lanyard.cnrad.dev/api/984085171408080897" alt="Discord Status" width="70%x">
 </a>
 
-</td>
-<td align="center" width="50%">
+<br/>
 
-**Spotify Now Playing**
-
-<a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t5yp5xot6ttmhlwefjaxq7qukm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true" width="100%">
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-  
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/984085171408080897)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Herzchens)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31t5yp5xot6ttmhlwefjaxq7qukm)
 
 </div>
 
@@ -160,6 +140,20 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats-lovat-omega-98.vercel.app/api/top-langs/?username=Herzchens&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&count_private=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="100%">
 </a>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+**Spotify Now Playing**
+
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t5yp5xot6ttmhlwefjaxq7qukm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true" alt="Spotify" width="100%">
+</a>
+
+</td>
+</tr>
 </table>
 
 </div>
