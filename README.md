@@ -18,7 +18,7 @@
 **Discord Status**
 
 <a href="https://discord.com/users/984085171408080897">
-  <img src="https://lanyard.cnrad.dev/api/984085171408080897" alt="Discord Status" width="100%" style="max-width: 400px;">
+  <img src="https://lanyard.cnrad.dev/api/984085171408080897" alt="Discord Status" width="100%" style="max-width: 350px;">
 </a>
 
 <br/>
