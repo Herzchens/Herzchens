@@ -144,7 +144,7 @@
 </td>
 </tr>
 <tr>
-<td align="center" valign="top" colspan="2">
+<td align="center" colspan="2">
 
 **Spotify Now Playing**
 
