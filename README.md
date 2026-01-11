@@ -147,7 +147,7 @@
 <td align="center" width="50%" valign="top">
 
 <a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t5yp5xot6ttmhlwefjaxq7qukm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true" alt="Spotify" width="100%" max-width="200px">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t5yp5xot6ttmhlwefjaxq7qukm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true" alt="Spotify" width="100%">
 </a>
 
 </td>
