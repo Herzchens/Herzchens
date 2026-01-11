@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://discord.com/users/ID_CUA_BAN">
     <img
-      src="https://lanyard.cnrad.dev/api/ID_CUA_BAN?theme=dark&bg=1e1e2e&hideDiscrim=true&borderRadius=10px"
+      src="https://lanyard.cnrad.dev/api/984085171408080897?theme=dark&bg=1e1e2e&hideDiscrim=true&borderRadius=10px"
       width="320"
       alt="Discord Status"
     />
@@ -25,7 +25,7 @@
 
 <p align="center">
   <img
-    src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_UID&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t5yp5xot6ttmhlwefjaxq7qukm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true"
     width="320"
     alt="Spotify Now Playing"
   />
