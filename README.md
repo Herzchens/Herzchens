@@ -22,7 +22,7 @@
 **Discord Status**
 
 <a href="https://discord.com/users/984085171408080897">
-  <img src="https://lanyard.cnrad.dev/api/984085171408080897" alt="Discord Status" width="400">
+  <img src="https://lanyard.cnrad.dev/api/984085171408080897" alt="Discord Status" width="100%">
 </a>
 
 </td>
@@ -31,7 +31,7 @@
 **Spotify Now Playing**
 
 <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t5yp5xot6ttmhlwefjaxq7qukm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t5yp5xot6ttmhlwefjaxq7qukm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true" width="100%">
 </a>
 
 </td>
