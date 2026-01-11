@@ -15,16 +15,25 @@
 
 <div align="center">
 
-**Discord Status**
+  <a href="https://discord.com/users/984085171408080897">
+    <img src="https://lanyard.cnrad.dev/api/984085171408080897" height="170" alt="Discord Status"/>
+  </a>
+  
+  &nbsp; &nbsp;
 
-<a href="https://discord.com/users/984085171408080897">
-  <img src="https://lanyard.cnrad.dev/api/984085171408080897" alt="Discord Status" width="100%" style="max-width: 350px;">
-</a>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t5yp5xot6ttmhlwefjaxq7qukm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true" height="170" alt="Spotify Status"/>
+  </a>
 
-<br/>
+</div>
 
+<br />
+
+<div align="center">
+  
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/984085171408080897)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Herzchens)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31t5yp5xot6ttmhlwefjaxq7qukm)
 
 </div>
 
@@ -140,20 +149,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats-lovat-omega-98.vercel.app/api/top-langs/?username=Herzchens&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&count_private=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="100%">
 </a>
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-**Spotify Now Playing**
-
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t5yp5xot6ttmhlwefjaxq7qukm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true" alt="Spotify" width="100%">
-</a>
-
-</td>
-</tr>
 </table>
 
 </div>
