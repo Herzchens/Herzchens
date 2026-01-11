@@ -13,20 +13,18 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25" /> Connect With Me
 
-<a href="https://discord.com/users/1007631986623524965"  align="center">
-    <img src="https://lanyard.cnrad.dev/api/984085171408080897?theme=dark&bg=1A1B27&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
-  </a>
+<div align="center">
 
----
+**Discord Status**
 
-<a href= "https://open.spotify.com/user/31t5yp5xot6ttmhlwefjaxq7qukm?si=91497311df5c4471" align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t5yp5xot6ttmhlwefjaxq7qukm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true"
-  </a>
-</p>
-  
+<a href="https://discord.com/users/984085171408080897">
+  <img src="https://lanyard.cnrad.dev/api/984085171408080897" alt="Discord Status" width="600px">
+</a>
+
+<br/>
+
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/984085171408080897)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Herzchens)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31t5yp5xot6ttmhlwefjaxq7qukm)
 
 </div>
 
@@ -135,13 +133,27 @@
 </a>
 
 </td>
-<td align="center" width="50%" valign="top">
+<td align="center" width="50%" valign="top" rowspan="2">
 
 **Most Used Languages**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats-lovat-omega-98.vercel.app/api/top-langs/?username=Herzchens&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&count_private=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="100%">
 </a>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+**Spotify Now Playing**
+
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t5yp5xot6ttmhlwefjaxq7qukm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true" alt="Spotify" width="100%" max-width="200px">
+</a>
+
+</td>
+</tr>
 </table>
 
 </div>
