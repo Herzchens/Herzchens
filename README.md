@@ -2,7 +2,7 @@
   
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> Hello, I'm ItzHerzchen!
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" /> Junior Developer | <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> Learning Everyday | <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20" /> Coding Enthusiast
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif?t=1" width="20" /> Junior Developer | <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> Learning Everyday | <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20" /> Coding Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/Herzchens?style=social)](https://github.com/Herzchens)
 [![GitHub stars](https://img.shields.io/github/stars/Herzchens?style=social)](https://github.com/Herzchens)
@@ -127,6 +127,42 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> GitHub Statistics
+
+<div align="center">
+
+**Contribution Streak**
+
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats-puce-seven.vercel.app?user=Herzchens&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" width="100%"/>
+</a>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+
+**Overall Stats**
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-lovat-omega-98.vercel.app/api?username=Herzchens&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=100" alt="GitHub Stats" width="100%">
+</a>
+
+</td>
+<td align="center" width="50%" valign="top" rowspan="2">
+
+**Most Used Languages**
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-lovat-omega-98.vercel.app/api/top-langs/?username=Herzchens&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&count_private=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="100%">
+</a>
+</table>
+
+</div>
 
 ---
 
