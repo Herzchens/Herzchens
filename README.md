@@ -140,18 +140,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats-lovat-omega-98.vercel.app/api/top-langs/?username=Herzchens&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&count_private=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="100%">
 </a>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" height="100%" valign="top">
-
-<a href="[https://github.com/kittinan/spotify-github-profile](https://open.spotify.com/user/31t5yp5xot6ttmhlwefjaxq7qukm?si=91497311df5c4471)">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t5yp5xot6ttmhlwefjaxq7qukm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true" alt="Spotify" width="100%">
-</a>
-
-</td>
-</tr>
 </table>
 
 </div>
