@@ -176,8 +176,6 @@ Thank you for visiting! <img src="https://raw.githubusercontent.com/Tarikul-Isla
 
 </div>
 
----
-
 <div align="center">
 
 *"The best way to learn is by doing."*
