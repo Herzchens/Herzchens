@@ -24,7 +24,7 @@
 <br/>
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/984085171408080897)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Herzchens)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=social)](https://github.com/Herzchens)
 
 </div>
 
@@ -116,8 +116,8 @@
 
 **Contribution Streak**
 
-<a href="https://profile.tailed8451.ts.net/v1/svg/github-streak.svg?compat=campfire-v9">
-  <img src="https://profile.tailed8451.ts.net/v1/svg/github-streak.svg?compat=campfire-v9" alt="GitHub Contribution Streak" width="100%"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats-puce-seven.vercel.app?user=Herzchens&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" width="100%"/>
 </a>
 
 <br/>
