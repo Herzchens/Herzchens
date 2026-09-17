@@ -1,183 +1,297 @@
 <div align="center">
-  
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> Hello, I'm ItzHerzchen!
 
-### <img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif?t=1)" width="20" /> Junior Developer | <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> Learning Everyday | <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="20" /> Coding Enthusiast
+<img
+src="https://raw.githubusercontent.com/Herzchens/profile-materials/main/assets/hero/banner.png"
+alt="ItzHerzchen — I build things I want to use, then overthink the edge cases."
+width="100%"
+/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Herzchens?style=social)](https://github.com/Herzchens)
-[![GitHub stars](https://img.shields.io/github/stars/Herzchens?style=social)](https://github.com/Herzchens)
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25" /> Connect With Me
-
-<div align="center">
-
-**Discord Status**
+### 🟢 Catch Me Live on Discord
 
 <a href="https://discord.com/users/984085171408080897">
-  <img src="https://lanyard.cnrad.dev/api/984085171408080897" alt="Discord Status" width="600px">
+  <img
+    src="https://profile.tailed8451.ts.net/v1/svg/presence.svg?compat=activity-cards-v2"
+    alt="Live Discord presence"
+    width="100%"
+  />
 </a>
+
+</div>
+
+---
+
+### 🎯 How I Actually Work
+
+> **Zero trust, evidences makes senses.**
+
+I don't trust a fix without enough evidences and can't be proved. Every real problem goes through **DDRG (Dynamic Decomposition Reasoning Graph)**. It's a decision-graph methodology I built myself. It's not an established framework, and you won't find it written up anywhere else. No trusting "the standard solution" by default, no closing a decision without evidence behind it.
+
+<details>
+<summary><b>📐 Click to see the full workflow</b></summary>
+
+```mermaid
+flowchart TD
+
+    A["Real problem / observed failure"] --> B["Reproduce + collect evidence"]
+    B --> C["Inspect the actual system"]
+    C --> D["Map architecture, ownership, lifecycle & dependencies"]
+    D --> E["Extract requirements, constraints, unknowns & failure modes"]
+
+    E --> F["DDRG decomposition"]
+
+    F --> G["Break into meaningful problem nodes"]
+    G --> H["Attach requirements, assumptions, dependencies & proof obligations"]
+    H --> I{"Unresolved dependency?"}
+
+    I -- Yes --> G
+    I -- No --> J["Enumerate candidates"]
+
+    J --> J1["Existing / standard"]
+    J --> J2["Custom"]
+    J --> J3["Hybrid"]
+    J --> J4["Defer / do nothing"]
+
+    J1 --> K
+    J2 --> K
+    J3 --> K
+    J4 --> K
+
+    K["Targeted research / experiments / upstream evidence"]
+    K --> L["Compare correctness, failure behavior, compatibility, performance & complexity"]
+    L --> M{"Enough evidence?"}
+
+    M -- No --> K
+    M -- Yes --> N["Bind decision locally + define rollback conditions"]
+
+    N --> O["Detailed implementation plan"]
+    O --> P["AI-assisted implementation in small slices"]
+
+    P --> Q["Inspect the actual diff"]
+    Q --> R["Regression + negative + failure-path tests"]
+    R --> S["Adversarial self-audit"]
+    S --> T["Full CI / static / integration validation"]
+    T --> U["Runtime validation where necessary"]
+
+    U --> V{"Evidence contradicts a decision?"}
+
+    V -- Yes --> W["REOPEN the affected DDRG node"]
+    W --> G
+
+    V -- No --> X["Re-audit the FINAL state"]
+    X --> Y["Ship / deploy reversibly"]
+    Y --> Z["Observe real behavior"]
+
+    Z --> AA{"Reality contradicts a resolved claim?"}
+
+    AA -- Yes --> W
+    AA -- No --> AB["Record evidence / regression guards / lessons"]
+
+    AB -. "next problem" .-> A
+```
+
+DDRG isn't a fixed checklist. It keeps assumptions, dependencies, candidate solutions, decisions, and the evidence behind them visible and reopens them when reality proves something wrong.
+
+</details>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=860&lines=Curiosity+starts+it.+DDRG+finishes+it.;I+don't+fix+things.+I+interrogate+them.;Work+with+AI.+Review+every+diff.+Trust+nothing+blindly.;Perfection+is+the+target%2C+scope+is+just+a+suggestion.;Small+fix.+Large+rabbit+hole.;Evidence+before+confidence.;Chaos+in+process.+Standards+in+output.;Automate+the+boring.+Overthink+the+interesting.;Every+shortcut+eventually+sends+an+invoice.;If+it+can+be+cleaner%2C+faster%2C+or+safer%2C+I'll+probably+notice.;The+implementation+is+done+when+the+questions+stop+being+interesting.;I+don't+mind+complexity.+I+mind+unexplained+complexity.;A+green+checkmark+means+less+if+I+can't+explain+why+it's+green.;Sometimes+the+optimization+was+absolutely+unnecessary.+I+did+it+anyway."
+alt="Typing SVG"
+/>
+
+</div>
+
+**Languages**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=rust,ts,js,go,kotlin,java,py,c,cpp,html,css" />
+</div>
+
+**Frameworks / Platforms / Tools**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,flask,nodejs,spring,nginx,docker,linux" />
+</div>
+
+**Databases**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite" />
+</div>
+
+---
+
+### My Journey
+
+<div align="center">
+
+<img
+src="https://profile.tailed8451.ts.net/v1/svg/github-streak.svg?compat=campfire-v12"
+alt="GitHub contribution streak"
+width="100%"
+/>
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/984085171408080897)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Herzchens)
+<img
+src="https://profile.tailed8451.ts.net/v1/svg/github-stats.svg?compat=stats-v2"
+alt="GitHub statistics"
+width="100%"
+/>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" width="25" /> About Me
+### 🎮 Games
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" width="18" /> Based in **Vietnam**
+I always welcome who want to play with me but I don't like toxic ones.  
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="18" /> A junior developer who loves learning new things every day
+#### ![Valorant](https://img.shields.io/badge/VALORANT-FF4655?style=for-the-badge\&logo=valorant\&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="18" /> Still learning and improving, one step at a time
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="18" /> Enjoy playing games and exploring technology in my free time
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" width="18" /> Introverted but always curious about how things work
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sleeping%20Face.png" width="18" /> Sometimes lazy, but coding makes me motivated
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="18" /> Small progress is still progress
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="18" /> Cats addicted - Meow~
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" /> Tech Stack
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="20" /> Proficient In
-
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="18" /> Programming Languages**  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-**🌐 Web Technologies**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" width="18" /> Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="18" /> Tools & DevOps**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="18" /> System Tweaking**  
-![iOS](https://img.shields.io/badge/iOS_Tweak-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/Android_Tweak-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_Tweak-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="20" /> Currently Learning
-
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> GitHub Statistics
-
-<div align="center">
-
-**Contribution Streak**
-
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats-puce-seven.vercel.app?user=Herzchens&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" width="100%"/>
-</a>
+> **Daily mechanical gacha.**
+>
+> Some days I look suspiciously competent.
+> Other days I appear to have forgotten how a mouse works.
+>
+> `Peak · Immortal 1 · 50 RR`
+> `Riot ID · ItzHerzchen#ILYVM` `Shard · SEA`
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="50%" valign="top">
+#### ![Genshin Impact](https://img.shields.io/badge/GENSHIN_IMPACT-1E90FF?style=for-the-badge\&logo=genshinimpact\&logoColor=white)
 
-**Overall Stats**
+> **Started because of someone. Still here in case they ever come back.**
+>
+> Mostly here for combat, build optimization, and the story.
+>
+> Exploration usually happens when the Primogem situation becomes sufficiently desperate.
+>
+> Also somehow managed an **8-loss 50/50 streak** — yes, I'm counting Capturing Radiance too.
+>
+> `UID · 1802761525`
+> `Server · Asia`
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-lovat-omega-98.vercel.app/api?username=Herzchens&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=100" alt="GitHub Stats" width="100%">
+<br/>
+
+#### ![PUBG](https://img.shields.io/badge/PUBG_PC-F2A900?style=for-the-badge\&logo=pubg\&logoColor=white)
+
+> **Two completely different players depending on the queue.**
+>
+> **Ranked:** suddenly survival is a very serious matter.
+> **Normal:** every terrible push starts looking strangely reasonable.
+>
+> `IGN · ItzHerzchen` `Clan · TLCG`
+
+<br/>
+
+#### ![Arena of Valor](https://img.shields.io/badge/ARENA_OF_VALOR-FDB813?style=for-the-badge)
+
+> **Pure support player.**
+>
+> I mostly play dedicated buff / support heroes.
+>
+> If I've decided you're the one I'm protecting, there's a decent chance the entire team dies before you do.
+>
+> `IGN · 龍•Hεrƶϲћεηッ`
+
+<br/>
+
+#### ![Wuthering Waves](https://img.shields.io/badge/WUTHERING_WAVES-2C3E66?style=for-the-badge)
+
+> **Beautiful world. Excellent combat. Apparently that was enough.**
+>
+> I came for the visuals and stayed because the combat actually feels good.
+>
+> `UID · 908083609`
+> `Server · SEA`
+
+---
+
+### 🎭 Outside the Editor
+
+#### ✨ Cosplay
+
+Mostly **female characters** from **Genshin Impact, Zenless Zone Zero, Wuthering Waves**, and whatever else manages to catch my attention.
+
+I prefer **source-accurate cosplay**.
+
+I'm happy to see how close I can get to the original character. Not just the outfit, but the overall impression.
+
+The other part is getting to step into a completely different version of myself for a while.
+
+Considering people can already get wildly different impressions of me depending on when and how they know me, that part feels strangely appropriate.
+
+<div align="center">
+
+![female characters](https://img.shields.io/badge/female%20characters-FF7EB6?style=for-the-badge)
+![source accurate](https://img.shields.io/badge/source--accurate-8957E5?style=for-the-badge)
+![maid outfits](https://img.shields.io/badge/maid%20outfits-slight%20advantage-C678DD?style=for-the-badge)
+
+</div>
+
+<br/>
+
+#### 🐈 Other Rabbit Holes
+
+<div align="center">
+
+![cats](https://img.shields.io/badge/cats-F4B400?style=for-the-badge&logo=cats&logoColor=white)
+![mystery](https://img.shields.io/badge/mystery%20%26%20detective%20stories-6A5ACD?style=for-the-badge)
+![logic](https://img.shields.io/badge/logical%20reasoning-2E8B57?style=for-the-badge)
+![horror](https://img.shields.io/badge/rule--based%20horror-8B0000?style=for-the-badge)
+
+</div>
+
+#### 🎵 Music
+
+Fast rhythmic tracks, remixes, electronic stuff, or something completely different when the mood changes.
+
+<div align="center">
+
+<a href="https://open.spotify.com/user/31t5yp5xot6ttmhlwefjaxq7qukm">
+  <img
+    src="https://img.shields.io/badge/See_what_I'm_listening_to-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+    alt="Spotify"
+  />
 </a>
-
-</td>
-<td align="center" width="50%" valign="top" rowspan="2">
-
-**Most Used Languages**
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-lovat-omega-98.vercel.app/api/top-langs/?username=Herzchens&layout=compact&theme=tokyonight&hide_border=true&langs_count=20&count_private=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="100%">
-</a>
-</table>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="25" /> Get In Touch
+### 🔗 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://discord.com/users/984085171408080897" title="Discord"><img src="https://raw.githubusercontent.com/Herzchens/profile-materials/main/assets/social/discord.svg" width="48" height="48" alt="Discord"></a>&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@itzherzchen" title="TikTok"><img src="https://raw.githubusercontent.com/Herzchens/profile-materials/main/assets/social/tiktok.svg" width="48" height="48" alt="TikTok"></a>&nbsp;&nbsp;
+  <a href="https://web.facebook.com/itztli.herzchen/" title="Facebook"><img src="https://raw.githubusercontent.com/Herzchens/profile-materials/main/assets/social/facebook.svg" width="48" height="48" alt="Facebook"></a>&nbsp;&nbsp;
+  <a href="https://steamcommunity.com/profiles/76561198773090886" title="Steam"><img src="https://raw.githubusercontent.com/Herzchens/profile-materials/main/assets/social/steam.svg" width="48" height="48" alt="Steam"></a>&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/31t5yp5xot6ttmhlwefjaxq7qukm" title="Spotify"><img src="https://raw.githubusercontent.com/Herzchens/profile-materials/main/assets/social/spotify.svg" width="48" height="48" alt="Spotify"></a>&nbsp;&nbsp;
+  <a href="https://www.paypal.com/paypalme/itzherzchen" title="PayPal"><img src="https://raw.githubusercontent.com/Herzchens/profile-materials/main/assets/social/paypal.svg" width="48" height="48" alt="PayPal"></a>
+</p>
 
-**Feel free to reach out if you want to talk about tech or collaborate on projects!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="20" />
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="18" /> Always happy to learn from others
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" width="18" /> Open to friendly collaborations
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="18" /> Let's grow together!
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="18" /> From [ItzHerzchen](https://github.com/Herzchens)
-
-</div>
+<p align="center">
+💛 Feeling generous?
+<a href="https://www.paypal.com/paypalme/itzherzchen">Support me and my work on PayPal</a>
+</p>
 
 ---
 
 <div align="center">
-  
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="22" /> Support My Work
 
-If you like my projects, consider giving them a <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="18" />!
+💬 For questions, collaboration, gaming, or work, feel free to reach out to me on Discord.
 
-Thank you for visiting! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" width="18" />
+🎨 Special thanks to `_napirilles` for drawing my mascot!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Herzchens&color=ff69b4&style=for-the-badge)
-
-</div>
-
-<div align="center">
-
-*"The best way to learn is by doing."*
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:58A6FF,100:8957E5&height=100&section=footer"
+  width="100%"
+/>
 
 </div>
