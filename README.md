@@ -6,6 +6,8 @@ alt="ItzHerzchen — I build things I want to use, then overthink the edge cases
 width="100%"
 />
 
+*_I temporary use this AI generated img till the artist finishes my banner. This has been allowed by the artist_
+
 ### 🟢 Catch Me Live on Discord
 
 <a href="https://discord.com/users/984085171408080897">
