@@ -2,7 +2,7 @@
 
 <img
 src="https://raw.githubusercontent.com/Herzchens/profile-materials/main/assets/hero/banner.png"
-alt="ItzHerzchen — I build things I want to use, then overthink the edge cases."
+alt="ItzHerzchen - I don't mind the complexity, I mind about the unexplained complexity."
 width="100%"
 />
 
