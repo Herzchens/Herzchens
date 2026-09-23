@@ -285,7 +285,9 @@ Fast rhythmic tracks, remixes, electronic stuff, or something completely differe
 
 <div align="center">
 
-💬 For questions, collaboration, gaming, or work, feel free to reach out to me on Discord.
+💬 For questions, collaboration, gaming, or work, feel free to reach out to me on Discord. 
+
+*(Some time if you feel my respones is pretty AI similar, dw I use AI tools to polish the sentences)*
 
 🎨 Special thanks to `_napirilles` for drawing my mascot!
 
