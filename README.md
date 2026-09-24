@@ -179,17 +179,6 @@ I always welcome who want to play with me but I don't like toxic ones.
 
 <br/>
 
-#### ![PUBG](https://img.shields.io/badge/PUBG_PC-F2A900?style=for-the-badge\&logo=pubg\&logoColor=white)
-
-> **Two completely different players depending on the queue.**
->
-> **Ranked:** suddenly survival is a very serious matter.
-> **Normal:** every terrible push starts looking strangely reasonable.
->
-> `IGN · ItzHerzchen` `Clan · TLCG`
-
-<br/>
-
 #### ![Arena of Valor](https://img.shields.io/badge/ARENA_OF_VALOR-FDB813?style=for-the-badge)
 
 > **Pure support player.**
